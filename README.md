@@ -7,10 +7,8 @@
 👉 &nbsp; &nbsp;MERN Stack Developer.<br>
 👉 &nbsp; &nbsp;Photoshop, Midjourney expert.<br>
 👉 &nbsp; &nbsp;Design & develop webpages using React.js, Next.js. and Database.<br>
-👉 &nbsp; &nbsp;Design & develop chrome extensions for Google Chrome Browser.<br>
 👉 &nbsp; &nbsp;Design & develop Rest API for Server Side.<br>
 👉 &nbsp; &nbsp;Write articles on Medium about Web Technologies and beyond.<br>
-👉 &nbsp; &nbsp;Write blog articles about Web Technologies on my official webpage.<br>
 👉 &nbsp; &nbsp;Learning AI and Blockchain <br>
 <br>
 
@@ -43,8 +41,6 @@
 <img align="left" alt="socket.io" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
 <img align="left" alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-<img align="left" alt="chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-<img align="left" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img align="left" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <br>
 <br>
