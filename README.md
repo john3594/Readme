@@ -1,24 +1,14 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Thank+you+👋;I+am+John+Boris;Web+Developer;Web+Designer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Thank+you+👋;I+am+John;Web3+Developer;Web+frontend+devekoper;)](https://git.io/typing-svg)
 
 ## About Me 👤
 
-👉 &nbsp; &nbsp;Self‑Taught Front-end Developer.<br>
+👉 &nbsp; &nbsp;Self‑Taught Web3 Frontend Developer.<br>
 👉 &nbsp; &nbsp;MERN Stack Developer.<br>
-👉 &nbsp; &nbsp;Photoshop, Midjourney expert.<br>
-👉 &nbsp; &nbsp;Design & develop webpages using React.js, Next.js. and Database.<br>
+👉 &nbsp; &nbsp;Design & develop webpages using React.js, Next.js.<br>
 👉 &nbsp; &nbsp;Design & develop Rest API for Server Side.<br>
 👉 &nbsp; &nbsp;Write articles on Medium about Web Technologies and beyond.<br>
 👉 &nbsp; &nbsp;Learning AI and Blockchain <br>
-<br>
-
-## Design Tools 🎨
-
-<img align="left" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-<img align="left" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img align="left" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-<!-- <img align="left" alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /> -->
-<br>
 <br>
 
 ## My Tech Stack ✨
